@@ -1,2 +1,5 @@
 # pingPong
-pingPong for autists
+
+ping pong - ez game that did on python
+
+By Valodka
